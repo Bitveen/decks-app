@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/bitveen/code/js-projects/decksApp/src/components/Toolbar.js: Adjacent JSX elements must be wrapped in an enclosing tag (23:8) while parsing file: /Users/bitveen/code/js-projects/decksApp/src/components/Toolbar.js");
